@@ -42,6 +42,7 @@
 
 ![WechatIMG4](./images/WechatIMG4.jpeg)
 
+test in 2024/04/04
 
 ## 参考项目
 * [NobyDa/Script/JD-DailyBonus](https://github.com/NobyDa/Script/blob/master/JD-DailyBonus/JD_DailyBonus.js)
